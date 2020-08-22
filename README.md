@@ -1,2 +1,2 @@
-# Modelling-Intersecting-context-for-Fake-News-Detection
-Fake News Detection Challenge KDD 2020
+# Modelling Intersecting Context for Fake News Detection
+
